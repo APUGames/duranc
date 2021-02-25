@@ -16,8 +16,8 @@ TagManager:
   - Foreground
   - Player
   - Enemy
-  - 
-  - 
+  - Hazards
+  - Pickups
   - 
   - 
   - 
@@ -55,4 +55,7 @@ TagManager:
     locked: 0
   - name: Enemy
     uniqueID: 3407569625
+    locked: 0
+  - name: Pickups
+    uniqueID: 3009955755
     locked: 0
