@@ -49,7 +49,7 @@ public class GameSession : MonoBehaviour
 
     public void ProcessPlayerScore(int points)
     {
-        score += points; // isn't working??
+        playerScore += points; // isn't working??
         score.text = points.ToString();
     }
 
